@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">wishyouwerehere</string>
+    <string name="locationTitle">Locations</string>
+    <string name="photoTitle">Title: </string>
+    <string name="rating">Rating: </string>
+    <string name="author">Danny Cao | 103031155</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
